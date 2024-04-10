@@ -1,0 +1,191 @@
+Team,Score,Average,Batting Order,Inns,Captain
+Bangladesh,102,107.37,3,2,No
+Australia,118,97.52,3,2,No
+New Zealand,105,100.96,3,1,No
+Bangladesh,100,120.48,4,1,No
+England,107,115.05,4,1,No
+England,112,114.28,4,2,No
+West Indies,117,95.12,4,2,No
+Pakistan,183,123.64,3,2,No
+West Indies,102,122.89,3,1,Yes
+Zimbabwe,115,106.48,3,2,Yes
+Australia,100,192.3,3,2,No
+Australia,115,174.24,3,2,No
+New Zealand,123,110.81,3,2,No
+Bangladesh,136,111.47,3,2,Yes
+West Indies,127,111.4,3,1,No
+Pakistan,107,84.9,3,1,No
+South Africa,138,98.57,3,1,No
+Australia,117,100,3,1,No
+Australia,106,115.21,3,2,No
+New Zealand,154,114.92,3,2,No
+England,122,116.19,3,2,Yes
+West Indies,111,96.52,3,2,Yes
+New Zealand,121,96.8,3,1,Yes
+New Zealand,113,106.6,3,1,Yes
+South Africa,112,94.11,3,2,Yes
+South Africa,160,100.62,3,1,Yes
+South Africa,129,134.37,3,2,Yes
+West Indies,140,130.84,3,2,Yes
+West Indies,157,121.71,3,1,Yes
+West Indies,107,89.91,3,2,Yes
+Australia,104,92.85,3,2,Yes
+Australia,116,96.67,3,1,Yes
+Australia,123,129.47,3,2,Yes
+West Indies,120,96,3,1,Yes
+West Indies,114,115.15,3,2,Yes
+Afganistan,122,200,1,1,No
+Australia,116,,6,2,No
+New Zealand,103,,5,2,No
+England,103,,5,2,No
+Australia,107,,5,2,No
+South Africa,119,,4,1,No
+New Zealand,105,,4,4,No
+Australia,115,,4,2,No
+Australia,141,,4,4,Yes
+Australia,169,,4,2,Yes
+Australia,147,,4,2,No
+West Indies,200,,4,1,Yes
+New Zealand,211,,4,1,Yes
+England,167,,4,1,Yes
+England,235,,4,2,Yes
+Bangladesh,204,,4,1,Yes
+South Africa,153,,4,2,Yes
+England,149,,4,2,Yes
+England,103,,4,3,Yes
+West Indies,139,,4,1,Yes
+Australia,123,,4,2,Yes
+South Africa,254,,4,1,Yes
+Bangladesh,136,,4,2,Yes
+ Sri Lanka,12,54.54,2,1,Yes
+ Sri Lanka,37,55.22,2,2,Yes
+ Sri Lanka,25,65.78,1,1,Yes
+ Sri Lanka,54,81.81,1,1,Yes
+ Sri Lanka,31,67.39,1,2,Yes
+ Sri Lanka,2,100,7,1,Yes
+ Australia,30,73.17,4,2,Yes
+ Australia,10,62.5,3,2,Yes
+ Sri Lanka,27,142.1,7,1,Yes
+ Sri Lanka,54,83.07,4,1,Yes
+ Sri Lanka,107,93.85,4,2,Yes
+ Bangladesh,91,89.21,3,2,Yes
+ Bangladesh,102,107.36,3,2,Yes
+ South Africa,31,67.39,5,1,Yes
+ South Africa,57,80.28,3,2,Yes
+ Zimbabwe,0,-,3,1,Yes
+ Zimbabwe,18,62.06,3,1,Yes
+ Sri Lanka,10,71.42,3,1,Yes
+ Sri Lanka,28,82.35,3,1,Yes
+ Sri Lanka,0,0,3,2,Yes
+ Sri Lanka,37,64.91,3,2,Yes
+ Australia,118,97.52,3,2,Yes
+ New Zealand,105,100.96,3,1,Yes
+ New Zealand,64,87.67,3,2,Yes
+ New Zealand,63,90,3,2,Yes
+ New Zealand,0,0,3,2,Yes
+ New Zealand,2,25,3,2,Yes
+ South Africa,54,77.14,3,2,Yes
+ South Africa,22,64.7,3,1,Yes
+ South Africa,28,68.29,3,2,Yes
+ South Africa,87,94.56,3,2,Yes
+ South Africa,2,33.33,3,2,Yes
+ Bangladesh,100,120.48,4,1,Yes
+ Ireland,34,64.15,4,2,Yes
+ Netherlands,12,60,5,2,Yes
+ South Africa,1,33.33,7,1,Yes
+ West Indies,59,77.63,3,1,Yes
+ Australia,24,72.72,4,2,Yes
+ Pakistan,9,42.85,4,1,Yes
+ Sri Lanka,35,71.42,4,2,Yes
+ West Indies,2,25,3,2,Yes
+ West Indies,81,78.64,3,2,Yes
+ West Indies,0,0,3,2,Yes
+ West Indies,22,66.66,3,2,Yes
+ West Indies,94,90.38,3,1,Yes
+ England,9,100,4,1,Yes
+ England,7,38.88,4,1,Yes
+ England,107,115.05,4,1,Yes
+ England,37,58.73,4,1,Yes
+ England,112,114.28,4,2,Yes
+ England,35,116.66,4,2,Yes
+ England,86,86.86,4,2,Yes
+ England,0,0,3,1,Yes
+ West Indies,3,50,4,2,Yes
+ West Indies,117,95.12,4,2,Yes
+ West Indies,20,66.66,4,2,Yes
+ West Indies,23,209.09,6,1,Yes
+ West Indies,80,94.11,5,1,Yes
+ Australia,31,91.17,3,2,Yes
+ Australia,18,64.28,3,2,Yes
+ Australia,12,48,3,2,Yes
+ Australia,21,77.77,4,2,Yes
+ Bangladesh,66,80.48,3,1,Yes
+ Sri Lanka,106,93.8,3,1,Yes
+ Sri Lanka,1,20,3,1,Yes
+ Sri Lanka,38,58.46,3,2,Yes
+ Sri Lanka,128,107.56,3,2,Yes
+ Sri Lanka,23,65.71,3,1,Yes
+ Pakistan,0,0,3,1,Yes
+ Pakistan,6,66.66,3,2,Yes
+ Pakistan,7,41.17,3,1,Yes
+ England,15,68.18,3,2,Yes
+ England,37,68.51,3,1,Yes
+ England,77,97.46,3,2,Yes
+ England,26,78.78,3,2,Yes
+ England,0,0,3,1,Yes
+ England,43,126.47,3,1,Yes
+ West Indies,11,52.38,3,1,Yes
+ West Indies,102,122.89,3,1,Yes
+ Zimbabwe,115,106.48,3,2,Yes
+ Zimbabwe,14,77.77,3,1,Yes
+ Zimbabwe,68,77.27,3,2,Yes
+ Australia,61,71.76,3,2,Yes
+ Australia,100,192.3,3,2,Yes
+ Australia,68,93.15,3,1,Yes
+ Australia,115,174.24,3,2,Yes
+ Australia,0,0,3,1,Yes
+ West Indies,86,102.38,3,2,Yes
+ West Indies,99,99,3,1,Yes
+ West Indies,19,105.55,3,2,Yes
+ South Africa,31,88.57,3,2,Yes
+ South Africa,0,0,3,2,Yes
+ New Zealand,123,110.81,3,2,Yes
+ New Zealand,78,120,3,2,Yes
+ New Zealand,2,20,2,1,Yes
+ New Zealand,82,105.12,3,2,Yes
+ Bangladesh,136,111.47,3,2,Yes
+ England,0,0,3,1,Yes
+ England,40,80,3,2,Yes
+ England,1,33.33,3,2,Yes
+ England,13,61.9,3,2,Yes
+ West Indies,2,40,3,2,Yes
+ West Indies,62,79.48,4,1,Yes
+ West Indies,127,111.4,3,1,Yes
+ Sri Lanka,22,104.76,4,1,Yes
+ Sri Lanka,49,111.36,4,2,Yes
+ Sri Lanka,53,86.88,4,2,Yes
+ Sri Lanka,66,103.12,4,1,Yes
+ Sri Lanka,139,110.31,4,2,Yes
+ Australia,9,56.25,4,1,Yes
+ Australia,1,7.69,3,2,Yes
+ Bangladesh,1,25,3,2,Yes
+ Bangladesh,23,85.18,3,1,Yes
+ Bangladesh,25,71.42,3,1,Yes
+ South Africa,11,61.11,4,2,Yes
+ South Africa,12,66.66,4,1,Yes
+ South Africa,77,77.77,3,2,Yes
+ South Africa,138,98.57,3,1,Yes
+ South Africa,7,116.66,3,2,Yes
+ Australia,91,93.81,3,1,Yes
+ Australia,59,88.05,3,1,Yes
+ Australia,117,100,3,1,Yes
+ Australia,106,115.21,3,2,Yes
+ Australia,8,72.72,3,2,Yes
+ New Zealand,85,104.93,3,2,Yes
+ New Zealand,9,69.23,3,2,Yes
+ New Zealand,154,114.92,3,2,Yes
+ New Zealand,45,88.23,3,2,Yes
+ New Zealand,65,85.52,3,1,Yes
+ England,122,116.19,3,2,Yes
+ England,8,160,3,1,Yes
+ England,55,87.3,3,2,Yes
