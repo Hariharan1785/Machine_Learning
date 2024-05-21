@@ -2,13 +2,15 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-link = "C://Users//USER//OneDrive//Top_Mentor//Classes//DataSets//MachineLearning-master//Titanic-Dataset.csv"
+#link = "C://Users//USER//OneDrive//Top_Mentor//Classes//DataSets//MachineLearning-master//Titanic-Dataset.csv"
+link = "https://raw.githubusercontent.com/Hariharan1785/Python/main/Titanic-Dataset.csv"
 dataset = pd.read_csv(link)
 print("Data Retrieved", dataset)
+print(dataset.columns)
 print(dataset.head())
 print(dataset.tail())
 
-plt.scatter(dataset['Age'], dataset['Fare'])
+plt.scatter(dataset['Fare'], dataset['Age'])
 plt.show()
 
 X = dataset.iloc[:, :-1].values
